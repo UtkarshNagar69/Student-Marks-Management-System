@@ -1,1 +1,1 @@
-# This my Project On Student Management System in C Programming. 
+# This my Project On Student Marks Management System in C Programming. 
